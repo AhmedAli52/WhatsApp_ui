@@ -6,12 +6,10 @@ This project is focused only on **UI design**, not backend functionality.
 ---
 
 ## 📱 Screens
-- Splash Screen  
-- Login Screen  
 - Chat List Screen  
 - Status Screen  
 - Calls Screen  
-- Chat Detail Page  
+
 
 ---
 
