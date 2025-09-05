@@ -1,16 +1,38 @@
-# whatsappui
+# WhatsApp UI Clone (Flutter)
 
-A new Flutter project.
+A Flutter project that replicates the **WhatsApp User Interface**.  
+This project is focused only on **UI design**, not backend functionality.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screens
+- Splash Screen  
+- Login Screen  
+- Chat List Screen  
+- Status Screen  
+- Calls Screen  
+- Chat Detail Page  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/AhmedAli52/WhatsApp_ui.git
+   cd WhatsApp_ui
+2. Get Dependencies
+
+flutter pub get
+
+
+3. Run the App
+
+flutter run
+
+---
+
+✅ Just copy this into a file called **`README.md`** in your project root folder and push it to GitHub.  
+
+Do you also want me to add **badges** (like Flutter, Dart, License icons) at the top of the README to make it look more professional?
+
